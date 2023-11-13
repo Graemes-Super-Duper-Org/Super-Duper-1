@@ -1,6 +1,6 @@
 ---
 name: Assignees
-about: 
+about: Assignees
 title: ''
 labels: ''
 assignees: 'GraemeStaple'
