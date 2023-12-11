@@ -1,9 +1,9 @@
 ---
-name: ふりがな
-about: ふりがな
+name: Assignees
+about: 
 title: ''
 labels: ''
-assignees: ''
+assignees: 'GraemeStaple'
 
 ---
 
